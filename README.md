@@ -74,7 +74,14 @@
 
 ---
 
-## 📫 Connect  
+<h2 align="center">📫 Connect</h2>
 
-📧 nikitaksrivastava@gmail.com  
-🔗 https://linkedin.com/in/nikitasrivastava06  
+<p align="center">
+  <a href="mailto:nikitaksrivastava@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL%20ID-E5533D?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nikitasrivastava06">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
