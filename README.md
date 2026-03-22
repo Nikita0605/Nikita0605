@@ -52,7 +52,7 @@
 
 <h3>💻 Technical</h3>
 <ul>
-  <li>Python, Dart, C++</li>
+  <li>Dart, C++</li>
   <li>Flutter</li>
   <li>MongoDB</li>
   <li>Manual Testing</li>
