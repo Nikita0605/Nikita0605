@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:4B0082,100:8A2BE2&height=180&section=header&text=Nikita%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2C00,50:B8960C,100:FFD700&height=180&section=header&text=Nikita%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">Technical Documentation Specialist | Aspiring Data Analyst</h3>
