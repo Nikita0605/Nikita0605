@@ -26,9 +26,10 @@
 
 <h3>🧰 Tools & Systems</h3>
 <ul>
-  <li>Confluence, JIRA</li>
+  <li>JIRA</li>
   <li>Oxygen XML Editor</li>
   <li>PTC Windchill</li>
+  <li>XML DITA</li>
   <li>MS Word, PowerPoint</li>
   <li>SDLC, DevOps</li>
 </ul>
