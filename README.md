@@ -5,45 +5,62 @@
 <h3 align="center">Technical Documentation Specialist | Aspiring Data Analyst</h3>
 
 ---
-
-## 🛠️ Skills  
-
-<div align="center">
+<h2>🛠️ Skills</h2>
 
 <table>
 <tr>
-<td width="300px" valign="top">
+<td width="25%" valign="top">
 
 <h3>📄 Documentation</h3>
-
 <ul>
   <li>Technical Writing</li>
-  <li>User Guides</li>
-  <li>API Documentation</li>
-  <li>SOPs & Knowledge Base</li>
-  <li>Information Architecture</li>
-  <li>Markdown, Confluence, GitHub</li>
+  <li>Content Structuring</li>
+  <li>Proofreading & Editing</li>
+  <li>Information Design</li>
+  <li>Markdown, DITA</li>
 </ul>
 
 </td>
 
-<td width="300px" valign="top">
+<td width="25%" valign="top">
+
+<h3>🧰 Tools & Systems</h3>
+<ul>
+  <li>Confluence, JIRA</li>
+  <li>Oxygen XML Editor</li>
+  <li>PTC Windchill</li>
+  <li>MS Word, PowerPoint</li>
+  <li>SDLC, DevOps</li>
+</ul>
+
+</td>
+
+<td width="25%" valign="top">
 
 <h3>📊 Data Analytics</h3>
-
 <ul>
   <li>Data Cleaning & Analysis</li>
-  <li>Excel & SQL</li>
+  <li>Excel</li>
+  <li>SQL</li>
   <li>Python</li>
   <li>Power BI</li>
 </ul>
 
 </td>
+
+<td width="25%" valign="top">
+
+<h3>💻 Technical</h3>
+<ul>
+  <li>Python, Dart, C++</li>
+  <li>Flutter</li>
+  <li>MongoDB</li>
+  <li>Manual Testing</li>
+</ul>
+
+</td>
 </tr>
 </table>
-
-</div>
-
 ---
 
 ## 💼 Experience  
