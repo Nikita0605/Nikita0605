@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A1C00,50:FF8C00,100:FFA500&height=180&section=header&text=Nikita%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">Technical Documentation Specialist | Aspiring Data Analyst</h3>
+<h3 align="center">Technical Documentation Specialist | Aspiring Data Analyst | Computer Science Engineering Graduate (Amity University)</h3>
 
 ---
 <h2>🛠️ Skills</h2>
@@ -54,7 +54,6 @@
 <ul>
   <li>Dart, C++</li>
   <li>Flutter</li>
-  <li>MongoDB</li>
   <li>Manual Testing</li>
 </ul>
 
