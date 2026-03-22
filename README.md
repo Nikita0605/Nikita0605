@@ -1,63 +1,61 @@
-Hi, I'm Nikita👋
+<h1 align="center">👋 Hi, I'm Nikita</h1>
 
-Technical Documentation Specialist | Aspiring Data Analyst
+<p align="center">
+  <b>Technical Documentation Specialist</b> • <b>Aspiring Data Analyst</b>
+</p>
 
-Skills
+---
 
-📄 Technical Documentation
+<h2>🛠️ Skills</h2>
 
-- Technical Writing & User Guides
+<table>
+<tr>
+<td width="50%">
 
-- API Documentation
+<h3>📄 Technical Documentation</h3>
+<ul>
+  <li>Technical Writing & User Guides</li>
+  <li>API Documentation</li>
+  <li>SOPs & Knowledge Base</li>
+  <li>Information Architecture</li>
+  <li><b>Tools:</b> Markdown, Confluence, GitHub</li>
+</ul>
 
-- SOPs & Knowledge Base
+</td>
 
-- Information Architecture
+<td width="50%">
 
-- Tools: Markdown, Confluence, GitHub
+<h3>📊 Data Analytics</h3>
+<ul>
+  <li>Data Cleaning & Analysis</li>
+  <li>Excel & SQL</li>
+  <li>Python</li>
+  <li>Data Visualization (Power BI)</li>
+</ul>
 
+</td>
+</tr>
+</table>
 
-📊 Data Analytics
+---
 
-- Data Cleaning & Analysis
+<h2>💼 Experience</h2>
 
-- Excel & SQL
+<p>
+<b>Technical Communications Specialist | SLB </b>
+</p>
 
-- Python
+<ul>
+  <li>Created and maintained internal documentation for IT systems</li>
+  <li>Designed onboarding and user documentation frameworks</li>
+  <li>Collaborated with engineering and product teams</li>
+</ul>
 
-- Data Visualization (Power BI)
+---
 
+<h2>📫 Connect</h2>
 
-💼 Experience
-
-Technical Communications Speacialist | SLB
-
-
-- Created and maintained internal documentation for IT systems.
-
-- Designed onboarding and user documentation frameworks.
-
-- Collaborated with engineering & product teams.
-
-
-📫 Connect
-
-
-📧 nikitaksrivastava@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/nikitasrivastava06
-
-<!--
-**Nikita0605/Nikita0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+📧 <a href="mailto:nikitaksrivastava@gmail.com">nikitaksrivastava@gmail.com</a><br>
+🔗 <a href="https://linkedin.com/in/nikitasrivastava06">LinkedIn: nikitasrivastava06</a>
+</p>
